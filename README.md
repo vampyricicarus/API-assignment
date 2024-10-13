@@ -1,0 +1,1 @@
+In this lesson we learn how to use an imported JSON file in our code and extract information from it. Using response = request.get(url), we can fetch the code that we need for our project. From there, we can use all the code we already learned in previous lessons to finish our assignment
